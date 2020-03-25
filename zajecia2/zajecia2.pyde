@@ -51,4 +51,6 @@ def draw():
     
 def mousePressed():
     exit()
-   
+ 
+# ruch nie do końca po tym torze, który miał być
+# 1,75pkt
